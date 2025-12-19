@@ -1,6 +1,6 @@
 
 # Egypt's Trains Mobile Application
-##Egypt’s Trains - Mobile Application – UI/UX Redesign
+Egypt’s Trains - Mobile Application – UI/UX Redesign
 
 **Team Members:**
 
